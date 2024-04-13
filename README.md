@@ -1,4 +1,4 @@
-USA Hotel Rating Data Analysis:
+USA Hotel Rating Data Analysis: 
 
 Introduction:
 
